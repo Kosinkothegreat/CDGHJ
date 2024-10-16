@@ -42,7 +42,7 @@ This is a multipurpose tool that will provide the following functionalities:
 # Functions:
 
 1. network_scan(): Uses python-nmap to perform a network scan and display open ports and services.
-2. vulnerability_scan(): Placeholder function to initiate a vulnerability scan using OpenVAS. Implementing full OpenVAS API interactions requires more detailed code and setup.
+2. vulnerability_scan(): Placeholder function to initiate a vulnerability scan using OpenVAS. 
 3. packet_capture(): Utilizes TShark to capture network packets for a specified duration and saves them to a file.
 4. penetration_testing(): Launches the Metasploit console for manual penetration testing.
 5. main_menu(): Provides a CLI menu for users to select desired functionalities.
