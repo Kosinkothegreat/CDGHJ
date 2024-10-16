@@ -1,6 +1,16 @@
 # CDGHJ Multipurpose cybersecurity tool
 A python tool designed for multipurpose use
 
+# installation
+Clone the Repository:
+
+git clone https://github.com/Kosinkothegreat/CDGHJ.git
+cd CDGHJ
+
+# Install Required Libraries: Install the necessary Python packages:
+
+pip install python-nmap requests
+
 # Prerequisites
 Before using this tool, ensure you have the following tools installed and properly configured on your system:
 
