@@ -73,7 +73,3 @@ Some operations, especially network scanning and packet capturing, may require a
 
 Ensure that you have authorization to perform scans and penetration tests on the target systems to avoid legal issues.
 Handle credentials securely, especially when interacting with tools like OpenVAS.
-
-5. Error Handling:
-
-The script includes basic error handling. Depending on your needs, you might want to enhance it to handle specific exceptions and edge cases.
